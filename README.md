@@ -1,7 +1,7 @@
 # Software Java para cadastro de clientes de um salão de beleza
 
 <p align="center">
-  <img src="https://github.com/HenriqueNawa/Cadastro-Clientes-SalaoDeBeleza/blob/master/fatec.jpg" />
+  <img src="https://github.com/HenriqueNawa/Projeto-SPC-Brasil-Fatec-2020/blob/master/Gif/fatec.jpg" />
 </p>
 
 **Disciplina**: POO - Profº ME Gerson da Penha Neto
